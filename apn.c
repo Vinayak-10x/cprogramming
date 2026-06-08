@@ -8,5 +8,5 @@ int main(){
         printf("%d ",a+i*d);
         i++;
     }
-
+return 0;
 }
